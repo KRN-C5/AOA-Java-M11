@@ -22,8 +22,8 @@ x if x >= 0.
 ```
 /*
 Program to count pairs with K difference
-Developed by: Mohammed Muzammil A
-Register Number:  212222040103
+Developed by: Kiran C
+Register Number:  212222040077
 */
 
 
